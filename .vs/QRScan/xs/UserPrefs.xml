@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{D3743114-9BDC-DDCC-BD54-433DDD5E0CEE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PseudoQR/Scripts/ScanQRCode.cs">
+    <Files>
+      <File FileName="Assets/PseudoQR/Scripts/CreateQRCode.cs" Line="29" Column="26" />
+      <File FileName="Assets/PseudoQR/Scripts/ScanQRCode.cs" Line="28" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QRScan" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="eb68f4e8-e490-4a8e-86ef-9b544756a266" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

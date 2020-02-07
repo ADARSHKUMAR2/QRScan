@@ -1,0 +1,4 @@
+#Fri Feb 07 12:13:29 IST 2020
+base.0=/Users/adarsh/Downloads/QRScan/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
